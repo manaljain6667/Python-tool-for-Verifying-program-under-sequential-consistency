@@ -5,3 +5,5 @@ Input program can have assert statement in it. If there exists a
 sequential execution(valid trace) that violates the assert statement,
 then your tool should stop exploring traces and output the result as
 “Assertion violation” and display this trace.
+
+# For more information please refer to document pdf file
